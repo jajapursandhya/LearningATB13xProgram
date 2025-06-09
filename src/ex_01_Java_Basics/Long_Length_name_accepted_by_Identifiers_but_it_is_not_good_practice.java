@@ -1,0 +1,4 @@
+package ex_01_Java_Basics;
+
+public class Long_Length_name_accepted_by_Identifiers_but_it_is_not_good_practice {
+}
