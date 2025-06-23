@@ -9,7 +9,7 @@ public class Task_LeapYear {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter a Year : ");
         int Leapyear = sc.nextInt();
-        if (Leapyear % 4 == 0){
+        if (Leapyear % 4 == 0 ){
             System.out.println(Leapyear + " is Leap year");
         }
         else {
